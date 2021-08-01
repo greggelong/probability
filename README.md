@@ -2,7 +2,9 @@
 a place to hold some code in python for calculating probability  with sets
 
 
-adding mutually exclusive or non mutually exclusive events
+
+
+## adding mutually exclusive or non mutually exclusive events
 
 P(A or B) = P(A)+P(B) - P(A and B)
 
