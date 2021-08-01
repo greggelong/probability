@@ -24,6 +24,7 @@ b = {3,4,5,6}
 
 they are not mutually exclusive as there intersection len is greater >0
 
+```python
 >>> a.intersection(b)
 {3, 5}
-
+```
