@@ -10,7 +10,7 @@ P(A or B) = P(A)+P(B) - P(A and B)
 
 for non M.E. events  P(A and B) is the intersection of A and B
 
-Which yo can do with the set data structure in Python
+Which you can do with the set data structure in Python
 
 eg:
 
