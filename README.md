@@ -31,6 +31,16 @@ they are not mutually exclusive as there intersection len is greater >0
 {3, 5}
 ```
 
+
+## conditional probability 
+
+a nice use of python sets to demonstrate independent and non-independent conditional prob
+
+at this video:  https://youtu.be/KJFcwlMV764
+
+check comments in conditionalProb.py for explanation
+
+## random
 (from codecademy)
 Discrete and Continuous Random Variables
 
