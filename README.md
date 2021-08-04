@@ -54,3 +54,16 @@ Continuous Random Variables
 When the possible values of a random variable are uncountable, it is called a continuous random variable. These are generally measurement variables and are uncountable because measurements can always be more precise – meters, centimeters, millimeters, etc.
 
 For example, the temperature in Los Angeles on a randomly chosen day is a continuous random variable. We can always be more precise about the temperature by expanding to another decimal place (96 degrees, 96.44 degrees, 96.437 degrees, etc.).
+
+
+## review probability functions
+
+see file probReview.py
+
+introduction to probability distributions! To review, we have:
+
+    - Learned about different types of random variables
+    - Calculated the probability of specific events using probability mass functions (discrete random variable)
+    - Calculated the probability of ranges using probability mass functions and cumulative distribution functions (discrete random variable)
+    - Calculated the probability of ranges using probability density functions and cumulative distribution functions (continuous random variable)
+
